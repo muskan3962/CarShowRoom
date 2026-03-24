@@ -1,36 +1,56 @@
 # 🚗 Car Showroom Management System (Java - OOPs Based)
 
-A simple **Java console-based Car Showroom Management System** that demonstrates the core concepts of **Object-Oriented Programming (OOP)** like **classes, objects, inheritance, encapsulation, abstraction, and polymorphism**.
+## 📌 Description
+
+A simple Java console-based application that manages car showroom operations.
+It demonstrates core Object-Oriented Programming (OOP) concepts.
 
 ---
 
-## 📌 Features
+## 🚀 Features
 
-- Add new car entries
-- Display all available car
-- Delete a car from inventory
+* Add new car entries
+* Display all available cars
+* Delete a car from inventory
 
 ---
 
 ## 🧠 Concepts Used
 
-- Classes & Objects  
-- Inheritance  
-- Encapsulation  
-- Abstraction  
-- Polymorphism  
-
- 
+* Classes & Objects
+* Inheritance
+* Encapsulation
+* Abstraction
+* Polymorphism
 
 ---
 
-## 🛠 Technologies
+## 🛠️ Technologies Used
 
-- **Language:** Java (JDK 8 or above)
-- **Tools:** Any Java IDE (VS Code, IntelliJ, Eclipse) or Command Line
-- **No Database** – All data is handled in memory using Java collections
+* Java (JDK 8 or above)
+* OOP Concepts
+* Java Collections
 
 ---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Open in any IDE (IntelliJ / Eclipse / VS Code)
+3. Run the main class
+
+---
+
+## 📌 Future Improvements
+
+* Add database (MySQL)
+* Add GUI (JavaFX / Swing)
+* Convert to Spring Boot project
+
+---
+
+⭐ If you like this project, give it a star!
+
 
 
 
